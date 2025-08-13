@@ -13,7 +13,4 @@ source ~/.bashrc
 
 
 
-## Quiz 
-````
-https://forms.gle/kgnjVfzJEygDwf796
-````
+
